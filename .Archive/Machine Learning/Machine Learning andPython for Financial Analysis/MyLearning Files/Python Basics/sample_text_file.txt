@@ -1,0 +1,4 @@
+I am learning python now!
+It is super fun to learn Python programming 
+I am learning how to handle files in python!
+This is a new line that I added in the file!    
